@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "awesome-beaker-368412",
+  "private_key_id": "d25568438ea5ee8ba7a0b4a661f4eabca01575e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ8A6oLLZAYEgf\nHTnPnm+zSfKY4k3hFPzpmYfO2wA32L5ytibu1Z9OEfsLbwsUst/wSQqkhqSIvz+4\nBhNx59QtXB2QQoIKQYtqxRx8PpxTAvEP4vyfu0oiZK7/WvyifIDS2SgPJlAzULiV\n6iRY9xBVfKYCn+Se33l+32+3ci5I1TkBH7sR7CHdaCsfqqHyfqJQ0bstOLKtU4Eu\n/VPaH/SPsuAJZMziwvmrGhF2GHHpC/wgK2Z5Z+xMObPzvVADcDRm2dj8HrN/TUWM\nDwveQQDqE+0vRmRFz9QWZUiSkFr2IRyFpPIXSkd4ShN1oG4aJYMeu/VhX71Dl+6+\nqwxHn0qxAgMBAAECggEAXMMwCecWH+qbaBrxe2ytkLud9fMFQRPE3s1JoANZYWvx\nDDR599iXeQxwNZqrNcE5TjZYwFTK/aWhwntblXUeu7vknX2hiioB5I1HpZ6kvTSY\nVLHB4189m8wNLIWW2LZzwstJoMEnC+CE4NKLbA6lNi3bH2zdS75FIXqLO6LvDnJh\nn1xyu5Hs10Qi5ap0zK3fj/Xin5Acb5w5YUIINIbli1WTrEA5uLGm2HZ4jVX3CKMD\nAWuxgkdhxVQOA6Ex3UTj+7etnaXEXUo/nT/xSHzSsWakaZldVNpc3nOmVRc35Tlq\nMncXne38bJ8K3gxQ52lIfUY+buHib/fChZYJ4gnobQKBgQD/o1DL+Arvp3I7ddlD\nFm7BJCkg+O88SoSjrhP/5YyhHaB3WzddYM6HqQv0yn7WV1Ps+toDBGq2TLy4c9pU\nT88jYcLz9rpoNSOXVvLMVSHoqwye1leui+NQfDbXrKupGNpY/fIYyixDSKqm1paK\nL+S0+cdxJYEOZM4+wA1sMEfjkwKBgQDaPxKwXXbYnH+hZsGb4Mg6/Bj5ArIHPhoj\nJ5XUMYVUeKj697meYG+gfWdoHlIDLNLZ1L6Gd/H3443f6AmfyXuFG1aXS7a0tWAQ\n3iQzMorHdz7Ui19vWAFUpy5L0Kbujwvn9K0TWOeOH8A/NhXuapYeOrLUDCUnBT0i\nEJ3LoKBLKwKBgHt5v+H1WhrtrzBnONy9rhteQvtpIezmNXD1+TUGBEoiDEr6ZSCW\nTMub7Gl9kYwoPCJf/AOvE3ggUptpYhCNSAjYBJlgGCOTXzCPT9FAYZOHYx4pe8qU\nSOSsSrUb8wJHPdf0OQaeSIjrRXo2dhojDf4YE6xkKBTyvefzTchu/Zo/AoGBAKvg\nsno9EWTkU0usXlvBuk9hzNUG/2fey7zV5xSW73coE4Sa5g9JyX+uY2rHPjWL7n5p\nIqdJ/UEJb+lfl3zEs8ePUTGUCk7k7MQ7/mxnqI4QZmYDYWSR/XJKu5Yvu9fyxiCm\nPEwZXzs53DCsCreaL6Gc/ssqyXOil5OlXHBKjxLDAoGAc7MIWlN3Q64MDy36+/nF\nso22cQzXGuUD+yzRdQC6RwiDowIcOkOeQx9VDpuaRQJBa80TuJ4u/MAdJRbLZzOr\n9hDOCDZ0Xrb5OjraMnyvBw+rLt7/k7iXjb0tzzZPgqERKp+X3+2xgYS7Og4tCVDT\nnu5TzhXSMx42WmY6fOhcvFM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vilas-r@awesome-beaker-368412.iam.gserviceaccount.com",
+  "client_id": "110668356072991695620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vilas-r%40awesome-beaker-368412.iam.gserviceaccount.com"
+}

@@ -16,9 +16,8 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   void response(query) async {
-    AuthGoogle authGoogle = await AuthGoogle(
-            fileJson: "assets/cupcakesbot-qlrcih-9c82160e9e70.json")
-        .build();
+    AuthGoogle authGoogle =
+        await AuthGoogle(fileJson: "assets/service.json").build();
     Dialogflow dialogflow =
         Dialogflow(authGoogle: authGoogle, language: Language.english);
     AIResponse aiResponse = await dialogflow.detectIntent(query);
@@ -72,9 +71,7 @@ class _MyAppState extends State<MyApp> {
                   Container(
                     margin: EdgeInsets.symmetric(horizontal: 4.0),
                     child: IconButton(
-                      
                         icon: Icon(
-                          
                           Icons.send,
                           size: 30.0,
                           color: Colors.deepOrange,
